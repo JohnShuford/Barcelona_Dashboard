@@ -10,6 +10,10 @@
 *.userosscache
 *.sln.docstates
 
+# Four, keep away from my personal space
+.DS_Store
+.ipynb
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
